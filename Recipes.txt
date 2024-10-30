@@ -7,4 +7,7 @@ Pasta
 Burger
 Chicken BBQ
 
+Beans
+Taco
+
 thankyou:)
